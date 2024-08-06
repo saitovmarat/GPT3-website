@@ -1,5 +1,7 @@
 # React UI/UX GPT-3 WebSite
 
+![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
+
 ### `npm start`
 
 Runs the app in the development mode.\
