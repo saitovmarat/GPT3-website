@@ -4,6 +4,9 @@ import { Article, Brand, CTA, Feature, Navbar } from './components'
 import { Blog, Features, Footer, Header, Possibility, WhatGPT3 } from './containers'
 import './App.css'
 
+// export NODE_OPTIONS=--openssl-legacy-provider
+// 2:33:26
+
 const App = () => {
   return (
     <div className='App'>

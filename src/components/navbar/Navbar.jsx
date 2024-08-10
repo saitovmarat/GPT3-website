@@ -3,7 +3,6 @@ import { RiMenu3Line, RiCloseLine } from 'react-icons/ri'
 import logo from '../../assets/logo.svg'
 import './navbar.css'
 
-// 1.06.10
 const Menu = () => (
   <>
     <p><a href="#home">Home</a></p>
