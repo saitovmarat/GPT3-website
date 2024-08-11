@@ -2,6 +2,8 @@
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
+## How to start Application
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
